@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anup Poudel
 - 👀 I’m interested in building fullstack web applications.
-- 💞️ I’m looking to collaborate on javacript and typescript projects.
+- 💞️ I’m looking to collaborate on typescript and python projects.
 - 📫 How to reach me ... Email me at apoudel048@gmail.com or message me via linkedin [https://www.linkedin.com/in/anup-poudel-134b29179/](https://www.linkedin.com/in/anup-poudel-134b29179/).
 
 <!---
